@@ -15,8 +15,8 @@ I'm a Full Stack Web Developer, interested in developing a software that can enh
   
 <div align="center">
   <a href="https://github.com/hinaliao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hinaliao&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinaliao&layout=compact&langs_count=7&theme=aura"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hinaliao&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinaliao&layout=compact&langs_count=7&theme=nightowl"/>  
 </div>  
 
   ##
