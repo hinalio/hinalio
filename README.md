@@ -11,7 +11,7 @@ I'm a Full Stack Web Developer, interested in developing a software that can enh
 [![Mail Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/hinazh)
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:miliaozh@gmail.com)
 
-- 🌱 I’m currently curious about learning Typescript, Java and Ruby!
+- 🌱 I’m currently curious about learning Typescript, Java and SQL!
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts: I am passionate about music, games, bubble tea and I have 2 cats! :cat::cat:
 
