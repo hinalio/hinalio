@@ -4,9 +4,8 @@ _Actually, my name is Michelle_, but you can call me **Hina**!<br>
 I'm a Full Stack Web Developer, interested in developing a software that can enhance the user experience in terms of comfort and practicality 😄
 
 #### :mailbox: Reach me out!
-<img align="right" alt="Hina-pic" height="140" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/905877243639758869/930500742253518958/profile_gif.gif?width=676&height=676">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle-hina-liao/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hinalio/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/liao_hina)](https://twitter.com/liao_hina)
 [![Mail Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/hinazh)
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:miliaozh@gmail.com)
@@ -18,9 +17,9 @@ I'm a Full Stack Web Developer, interested in developing a software that can enh
 ## 
   
 <div align="center">
-  <a href="https://github.com/hinaliao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hinaliao&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinaliao&layout=compact&langs_count=7&theme=nightowl"/>    
+  <a href="https://github.com/hinalio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hinalio&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinalio&layout=compact&langs_count=7&theme=nightowl"/>    
   </a>
 </div>  
 
@@ -41,6 +40,6 @@ I'm a Full Stack Web Developer, interested in developing a software that can enh
   
 <div align="center">
     
- ![Snake animation](https://github.com/hinaliao/hinaliao/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/hinalio/hinalio/blob/output/github-contribution-grid-snake.svg)
   
 </div>
